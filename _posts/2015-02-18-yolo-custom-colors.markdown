@@ -3,7 +3,7 @@ layout: post
 title:  "YOLO: Custom Colors Post"
 date:   2015-02-18 16:00:00
 style: |
-  single-wrap {
+  .single-wrap {
     font-family: Helvetica;
   }
 ---
