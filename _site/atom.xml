@@ -4,339 +4,699 @@
   <id>http://hacknug.github.io/</id>
   <link href="http://hacknug.github.io/" />
   <link href="http://hacknug.github.io//atom.xml" rel="self" />
-  <updated>2015-02-18T19:09:31+01:00</updated>
+  <updated>2015-02-22T19:12:15+01:00</updated>
   <rights>Copyright 2014, Nestor Vera</rights>
   <author>
     <name>Nestor Vera</name>
   </author>
   
     <entry>
-      <title>YOLO: Custom Colors Post</title>
-      <link href="http://hacknug.github.io//2015/02/18/yolo-custom-colors/" />
-      <summary type="html">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
+      <title>El Faro</title>
+      <link href="http://hacknug.github.io//2015/02/22/el-faro/" />
+      <summary type="html">&lt;p&gt;Ha desaparecido mi faro eterno.
+Lo arrancaron de golpe,
+sin enviar postales,
+ni cartas,
+ni llamadas telefónicas
+ni dar lugar a enviarle rosas,
+o peluches,
+para despedirnos de él.
+Ya no está.
+Y la luz ha dejado de oler a mares
+y a rocas, alcalinas.
+Ya no está(s).
+Y ahora el mar tan sólo es un susurro
+desde la boca del lobo
+desde la profundidad del horizonte,
+que es eso que se construye
+cuando sabes callar.
+Ya no hay límites en las olas,
+ni peces que salten a cazar destello
+ni pájaros que reinen tus alturas.
+Ya no existen, paredes 
+y embajadas,
+torres de marfil y alfiles que te demandan,
+curiosos, 
+perdidos bajo tu magnitud.
+Ya no estás mi faro eterno,
+y ahora,
+sólo puedo recorrerte
+buscándote en el blanco de la sal
+en la sal que está en este océano de olvido
+y prisiones sin rejas
+ni silbidos
+ni talleres de pintura
+ni sangres, ni cuchillos.
+Sal,
+perdida en medio del océano.
+Y, cómo reconstruirte,
+tan lentamente,
+sin perderme nada,
+ni el más mínimo ápice
+de tus curvas
+de tus parpadeos,
+y tus deslices
+entre las algas.&lt;/p&gt;
 
-&lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.&lt;/p&gt;
-
-&lt;p&gt;I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.&lt;/p&gt;
-
-&lt;p&gt;When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream. &lt;/p&gt;
-
-&lt;p&gt;As I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!&lt;/p&gt;
-
-&lt;p&gt;O my friend – but it is too much for my strength – I sink under the weight of the splendour of these visions!&lt;/p&gt;
-
-&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;
+&lt;p&gt;(…)
+A Momo&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/02/18/yolo-custom-colors/</id>
-      <updated>2015-02-18T17:00:00+01:00</updated>
+      <id>http://hacknug.github.io//2015/02/22/el-faro/</id>
+      <updated>2015-02-22T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
       </author>
     </entry>
   
     <entry>
-      <title>Welcome to Hikari for Jekyll!</title>
-      <link href="http://hacknug.github.io//2014/01/28/welcome-to-jekyll/" />
-      <summary type="html">&lt;p&gt;Welcome to &lt;em&gt;Hikari&lt;/em&gt;, a responsive, fluid and minimalist Jekyll theme for developers. As a web designer keen on learning how to develop my own stuff, reading developers’ blog has always been the way to learn from the best. So I thought it was time to give back! &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Hikari&lt;/em&gt; is an open-source Jekyll theme packed with everything you need to get started and share your best learnings with the community.&lt;/p&gt;
-
-&lt;p&gt;Of course, you don’t need to be a developer to use &lt;em&gt;Hikari&lt;/em&gt;! Although, I wouldn’t recommend it to anyone who’s not willing to dive more than 5 minutes into my (sometimes) messy front-end code!  &lt;/p&gt;
-
-&lt;p&gt;Jekyll and pygments can easily help you to display your best snippets. I slightly styled them, and this is how it looks: &lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;header&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Hello World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/header&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;h1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;font&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;3em&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Georgia&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;font-weight&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;700&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ready&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;header&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;	
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Note that so far, only HTML, CSS and Javascript are styled out of the box. But everything’s ready for you to start styling your favorites languages: Python, Ruby, PHP and &lt;a href=&quot;http://rubygems.org/gems/pygments.rb&quot;&gt;many more&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. &lt;/p&gt;
-
-&lt;p&gt;More on &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+      <title>Estupidez Crónica</title>
+      <link href="http://hacknug.github.io//2015/02/21/estupidez-cronica/" />
+      <summary type="html">&lt;p&gt;Además de masoquista,
+hay que ser Gilipollas.
+Hasta los suicidas crónicos
+tendrían más tacto que yo.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2014/01/28/welcome-to-jekyll/</id>
-      <updated>2014-01-28T17:57:51+01:00</updated>
+      <id>http://hacknug.github.io//2015/02/21/estupidez-cronica/</id>
+      <updated>2015-02-21T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
       </author>
     </entry>
   
     <entry>
-      <title>Styling guide for Hikari: best practices</title>
-      <link href="http://hacknug.github.io//2014/01/27/hikari-styling-guide/" />
-      <summary type="html">&lt;p&gt;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Good design is as little design as possible, said Dieter. Use quotations very carefully; especially if you don’t understand them. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Bullet points are so fancy&lt;/li&gt;
-  &lt;li&gt;Easy to read, they make you look like a pro&lt;/li&gt;
-  &lt;li&gt;Even when completely random &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Ooh, and with numbers, it’s even fancier&lt;/li&gt;
-  &lt;li&gt;It’s like 1, 2, 3, did you see?&lt;/li&gt;
-  &lt;li&gt;Crazy stuff all around us; scary&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;There’s nothing like a good block of code! Especially when picked randomly out of Github (&lt;a href=&quot;https://github.com/jacobrask/styledocco/blob/master/styledocco.js&quot;&gt;styledocco.js&lt;/a&gt;).  &lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;separate&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;css&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;css&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;\n&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;line&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;blocks&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[];&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;checkType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;single&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;formatDocs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;shift&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;checkType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;multistart&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;line&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;shift&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;formatDocs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;line&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;checkType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;line&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;multiend&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;checkType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;code&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;checkType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;multiend&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;formatCode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;shift&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;blocks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;blocks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/vyoleth/assets/img/img2.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
-&lt;p&gt;Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.&lt;/p&gt;
-
-&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
-&lt;p&gt;But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?&lt;/p&gt;
-
-&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
-&lt;p&gt;In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.&lt;/p&gt;
-
-&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
-&lt;p&gt;But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.&lt;/p&gt;
+      <title>Vida</title>
+      <link href="http://hacknug.github.io//2015/02/20/vida/" />
+      <summary type="html">&lt;p&gt;Yo no estoy hecha para la vida.
+No estoy hecha para ella, 
+como me mandan.
+No estoy hecha para ella,
+si no es haciéndome a mí misma,
+o más bien, 
+dejándome de hacer.
+No sé vivirla,
+como dicen, debería.
+No sé vivirla
+si no es contemplando y 
+acariciando el vacío,
+la lentitud,
+la quietud de la inacción 
+y todo aquello que me lleva a la ineficacia,
+a la improductividad 
+y a la incompetencia
+y en fin,
+a todo eso que me hace 
+no estar hecha para la vida.
+No sé entender la vida sin vivir 
+y solo sé vivir sin tener vida.
+No estoy hecha para la vida.
+No sé calcular, ni siquiera, 
+resolver la suma más triste
+en la que dos o tres hacen un par.
+No sé cocinar sin tener prisa
+y romper así siempre algún cristal.
+No sé leer, sin alzar la vista,
+ni escribir, sin mirar a los lados
+y terminar haciendo olas
+de bolígrafo y lágrimas.
+No sé hablar,
+más que escuchando,
+ni sé elegir palabras,
+ni tengo nociones de diccionario.
+No sé donde está Siria
+y creía que la India quedaba más lejos,
+a veces no sé ni los agujeros
+de mi propia vagina.
+No estoy hecha para la vida.
+No tengo madera de capitán,
+ni de luchadora
+No sé gritar revolución
+sin sentirme traicionera
+No sé juzgar
+No sé argumentar
+No sé definir
+No sé comparar
+No sé.
+No estoy hecha para la vida.
+No estoy hecha para la familia,
+ni para aprender a hacer la lista de la compra
+No sé dar el pésame a mis amigas
+ni cuidar de mis amantes,
+ni siquiera de la gata 
+que merodea triste en su exilio
+justo enfrente de mi puerta.
+No entiendo de empatía
+ni me entristece la pobreza
+No me ofuscan los engaños
+y jamás fui de generosidad,
+no compartía de pequeña
+y no busqué nunca mejorar.
+No recuerdo mi escuela
+ni el más mínimo rastro de algún aprendizaje
+de cómo eran las setas en primavera
+o cómo Egipto momificaba faraones
+no recuerdo cuantos ríos tiene España
+y nunca terminé Un mundo feliz.
+No estoy hecha para terminar nada
+no estoy hecha para el compromiso
+ni físico ni humano ni político
+No sé sacarme una carrera
+ni elegir un máster, ni pensar en más allá.
+No estoy hecha para un despacho,
+tampoco para proclamar poesía al aire libre,
+no estoy hecha para tener carpetas
+y facturas
+y nóminas
+y palabras,
+para todos,
+y consejos
+o diplomas,
+quizás ni ligas,
+ni un carro,
+ni hogar
+quizás,
+ni un salero,
+ni la flor de plástico
+ni una sábana
+ni un zapato
+igual al de al lado.
+Yo no estoy hecha para la vida.
+No sé esconder
+y tampoco hablar.
+No sé cruzar el semáforo en verde
+ni dejar de crear accidentes 
+cuando paseo en bicicleta.
+No sé dar mi palabra
+ni lanzar el chicle en papeleras
+No sé reciclar 
+Jamás he visto el telenoticias
+ni he leído un periódico
+ni me he interesado por saber
+qué era un diputado,
+el papa de Roma,
+o la gripe aviar.
+No estoy hecha para la vida.
+No. Y no me repliquéis, por favor,
+que yo tengo razón
+Quizás solo en esto,
+pero en esto lo sé
+y nadie me pude contradecir
+diciéndome
+que es mentira,
+que no es así,
+que sé algo más que deambular
+y aparecerle al mundo como fantasma. 
+Contradecirme, 
+en que tan sólo sé alzar vista
+bucear en el horizonte que caza mi mirada perdida
+y contemplar, 
+como hacía aquel filosofo
+- del que no recuerdo el nombre,
+por supuesto, pues como vengo diciendo
+no estoy hecha para esta vida -
+No tengo memoria,
+y sin memoria no hay vida,
+y sin memoria nadie perdona
+y quién me perdonará a mi
+si no sé ni recordar
+ni descifrar qué me hizo daño
+ni arrepentirme de mis actos
+si no entiendo de ética
+ni de moral
+y de razón,
+ay, la razón,
+esa cosa siempre ajena y extraña,
+de ella, mejor ni hablo.
+Contemplar, como decía,
+contemplar como cuando se podía hacer,
+pues vivir no era esta vida
+y la vida era vivir
+cuando vida no requería
+ni una casa ni un fajo de billetes
+ni un saco de firmas ni deudas ni promesas
+ni ataduras ni conjeturas
+ni discursos de Mill o de Kant
+ni citas célebres de algún Rey y poeta muerto
+ni nociones del saber
+ni de aritmética ni de costura
+nada, del saber,
+más allá que el saberse uno mismo
+más allá que el Ser, el Estar, y …
+Vida.
+Geografía antropología acentos y sintaxis
+ciencias sociales ciencias naturales y meteorología
+política luchas culturales conflictos bélicos
+vida
+el estado del capital y el comunismo
+la dictadura de los ancestros y las generaciones futuras
+academicismos burocracias jerarquías
+pasados futuros y verbos condicionales 
+vida
+matemáticas lenguas datos históricos fechas
+inglés carné de coche postgrado y militancia
+vida
+organismos biologías la banda punk de los 70 
+aprenderse biografías épocas filmografías
+examinar contrastar y dar discursos 
+relatos raíces cuadradas y elecciones
+elegir votar y luchar,
+y argumentar,
+y darse ver,
+y darse a oír,
+y gritar siempre,
+hacia el público;
+Vida.
+Vida que no vivís.
+vida
+Números en rojo y bibliotecas
+tus ojos decepcionados por mi falta de juicios
+por mi desmotivación constante
+por mi inherente apatía
+por mi falta de excusas y pretextos
+por mi animalidad mal curada
+por mi poca humanidad
+vida
+medicamentos químicos y órdenes vacías 
+visitas en domingos y la dictadura constante de la responsabilidad
+Vida.
+Esta cosa cansada y triste
+llena de prisas cestos conceptos y cotidianidad
+Yo no estoy hecha para la vida&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2014/01/27/hikari-styling-guide/</id>
-      <updated>2014-01-27T17:57:51+01:00</updated>
+      <id>http://hacknug.github.io//2015/02/20/vida/</id>
+      <updated>2015-02-20T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
       </author>
     </entry>
   
     <entry>
-      <title>Moving to Tokyo, yeeha!</title>
-      <link href="http://hacknug.github.io//2014/01/22/moving-to-tokyo/" />
-      <summary type="html">&lt;p&gt;&lt;img src=&quot;/vyoleth/assets/img/img1.jpg&quot; /&gt;&lt;/p&gt;
+      <title>Renuncia</title>
+      <link href="http://hacknug.github.io//2015/02/18/renuncia/" />
+      <summary type="html">&lt;p&gt;Creo que aún estoy a salvo
+de todos vosotros
+- de todas vosotras
+             palabras -&lt;/p&gt;
 
-&lt;p&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.&lt;/p&gt;
-
-&lt;p&gt;He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.&lt;/p&gt;
-
-&lt;p&gt;The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. “What’s happened to me?&lt;/p&gt;
-
-&lt;p&gt;It wasn’t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.&lt;/p&gt;
-
-&lt;p&gt;A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.&lt;/p&gt;
-
-&lt;p&gt;It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.&lt;/p&gt;
-
-&lt;p&gt;Drops of rain could be heard hitting the pane, which made him feel quite sad.&lt;/p&gt;
-
-&lt;p&gt;“How about if I sleep a little bit longer and forget all this nonsense”, he thought, but that was something he was unable to do because he was used to sleeping on his right, and in his present state couldn’t get into that position. However hard he threw himself onto his right, he always rolled back to where he was.&lt;/p&gt;
-
-&lt;p&gt;He must have tried it a hundred times, shut his eyes so that he wouldn’t have to look at the floundering legs, and only stopped when he began to feel a mild, dull pain there that he had never felt before. “Oh, God”, he thought, “what a strenuous career it is that I’ve chosen!&lt;/p&gt;
-
-&lt;p&gt;Travelling day in and day out. Doing business like this takes much more effort than doing your own business at home, and on top of that there’s the curse of travelling, worries about making train connections, bad and irregular food, contact with different people all the time so that you can never get to know anyone or become friendly with them. It can all go to Hell!”.&lt;/p&gt;
+&lt;p&gt;Todavía me queda 
+un leve rastro de fuerza
+para desistir.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2014/01/22/moving-to-tokyo/</id>
-      <updated>2014-01-22T17:57:51+01:00</updated>
+      <id>http://hacknug.github.io//2015/02/18/renuncia/</id>
+      <updated>2015-02-18T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
       </author>
     </entry>
   
     <entry>
-      <title>A week-end in the desert (shawarmas and belly dancers)</title>
-      <link href="http://hacknug.github.io//2014/01/19/weekend-in-the-desert/" />
-      <summary type="html">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
-
-&lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.&lt;/p&gt;
-
-&lt;p&gt;I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.&lt;/p&gt;
-
-&lt;p&gt;When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream. &lt;/p&gt;
-
-&lt;p&gt;As I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!&lt;/p&gt;
-
-&lt;p&gt;O my friend – but it is too much for my strength – I sink under the weight of the splendour of these visions!&lt;/p&gt;
-
-&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;
+      <title>No Olvides</title>
+      <link href="http://hacknug.github.io//2015/02/02/no-olvides/" />
+      <summary type="html">&lt;p&gt;Por si pronto se te olvida
+la presencia de aquellos que te aman
+déjame recordarte
+que cada vez que ella se fue
+dándote la espalda y ardiendo en tus mejillas
+cuando el mundo húmedo se te echó encima
+cuando nadie más quiso saber,
+masturbación fue la única y fiel
+que se quedó contigo,
+que jamás te dejó de lado
+ni te reprochó el aire
+ni rechazó tus penas más deplorables
+ni te pidió explicaciones del porqué de tu calor
+acuérdate de ella, 
+(de aquellos que te aman)
+por si un día decides darle la espalda
+por si un día se te ocurre menospreciarla
+acuérdate de ella
+fiel amiga que entre mares
+y algún que otro tropiezo
+sabe siempre darte
+los mejores consejos.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2014/01/19/weekend-in-the-desert/</id>
-      <updated>2014-01-19T17:57:51+01:00</updated>
+      <id>http://hacknug.github.io//2015/02/02/no-olvides/</id>
+      <updated>2015-02-02T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
       </author>
     </entry>
   
     <entry>
-      <title>So much to do, so little time</title>
-      <link href="http://hacknug.github.io//2014/01/10/so-much-to-do-so-little-time/" />
-      <summary type="html">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
+      <title>Pájaro Aire Nada</title>
+      <link href="http://hacknug.github.io//2015/02/01/pajaro-aire-nada/" />
+      <summary type="html">&lt;p&gt;Esta mañana intenté
+paja aire nada
+y me encontré, patética,
+con ese shock de impotencia
+metida de cuclillas en la bañera,
+desplumada del coraje
+para asumir siquiera
+el mínimo rastro de placer
+el mínimo rastro de poder 
+                           complacerme
+a espaldas de fantasmas
+y libre de tropiezos
+poder
+gritar sin arañarme
+gritar sin llorar a cántaros
+o retorcerme en la porcelana
+demasiado frágil para mis ganas&lt;/p&gt;
 
-&lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.&lt;/p&gt;
-
-&lt;p&gt;I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.&lt;/p&gt;
-
-&lt;p&gt;When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream. &lt;/p&gt;
-
-&lt;p&gt;As I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!&lt;/p&gt;
-
-&lt;p&gt;O my friend – but it is too much for my strength – I sink under the weight of the splendour of these visions!&lt;/p&gt;
-
-&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;
+&lt;p&gt;gritar sin buscar nada
+nada más que a mí misma
+gritar con aquella voz
+que no era prisionera tuya
+ni de nadie 
+que aun podía vivir el deleite explícito
+el deseo salvaje sin salvación
+la condición sine qua non del placer
+éste que tú 
+- entre otras -
+me robaste
+hace mucho tiempo ya
+con el cariño del hielo y la sutileza
+de quien se corta en el desván.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2014/01/10/so-much-to-do-so-little-time/</id>
-      <updated>2014-01-10T17:57:51+01:00</updated>
+      <id>http://hacknug.github.io//2015/02/01/pajaro-aire-nada/</id>
+      <updated>2015-02-01T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
       </author>
     </entry>
   
     <entry>
-      <title>Setting up Jekyll on Github Pages (is easier than you think)</title>
-      <link href="http://hacknug.github.io//2014/01/08/setting-up-jekyll-on-github-pages/" />
-      <summary type="html">&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
-
+      <title>Vivir Para Qué</title>
+      <link href="http://hacknug.github.io//2015/01/25/vivir-para-que/" />
+      <summary type="html">&lt;p&gt;vivir
+para qué vivir
+para comer, de repente,
+ensalada de col lombarda en la terraza
+y mirar desde arriba a los vecinos
+a las calles fantasma 
+y testigos de injusticias
+albergando transeúntes confusos
+que van buscando en las esquinas
+algo de lo que poder comer
+o algo en lo que gastar su esclavitud
+vivir para qué
+para puestas bonitas para cielos indecisos
+y cambiantes de color
+para pararte en algún rio y conectar contigo misma
+para ver en el sol cegador
+un instante de lucidez
+y aferrarte un poco a algo
+a ese algo que sabes etéreo y vacío
+ese algo que no te logra sostener
+vivir para qué
+para un beso una caricia una risa perdida
+para aquello que mañana ya no está.
+vivir para qué
+fiestas cervezas metanfetamina
+y algún polvo repentino
+que ni siquiera querías
+prozac para el malestar contínuo
+de la depresión que te persigue
+en cada momento de luz
+de paz
+de amor
+en cada momento que rozas la vida
+y al hacerlo
+te ves
+más perdida todavía
+más lejana a todo esto
+más incoherente
+y más valiente al suicidio
+depresión inherente
+apatía, más bien.
+y para qué la vida
+quién coño decidió que yo tenía que estar aquí.
+yo no quiero estar viva.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2014/01/08/setting-up-jekyll-on-github-pages/</id>
-      <updated>2014-01-08T17:57:51+01:00</updated>
+      <id>http://hacknug.github.io//2015/01/25/vivir-para-que/</id>
+      <updated>2015-01-25T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
       </author>
     </entry>
   
     <entry>
-      <title>How Backbone.js changed my life</title>
-      <link href="http://hacknug.github.io//2014/01/06/how-backbone-changed-my-life/" />
-      <summary type="html">&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
+      <title>Lucidez</title>
+      <link href="http://hacknug.github.io//2015/01/20/lucidez/" />
+      <summary type="html">&lt;p&gt;“Había olvidado la lucidez del mar / del aire / del sol.&lt;/p&gt;
 
-&lt;p&gt;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;
+&lt;p&gt;Me había pensado que tus tristes paredes 
+eran mi realidad.
+La oscura humedad del sótano,
+el frío de las baldosas,
+y las bocanadas de aire
+de tóxico gas.&lt;/p&gt;
 
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
+&lt;p&gt;Había olvidado que yo era libre
+y que me bastaba observar
+para crear todo Mi mundo,
+Mi mundo - y nada más -,
+que poco me importan
+vuestros juicios cansados
+y vuestras gargantas grises y gastadas
+de tanto analizar.&lt;/p&gt;
 
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
+&lt;p&gt;Había olvidado que mis fantasmas
+terminan por ser tan sólo algas,
+- hediondas, deshidratadas -
+y que yo a las algas me las como
+en ensaladas con Ana
+que es Sirena y sal.&lt;/p&gt;
 
-&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on the way.&lt;/p&gt;
+&lt;p&gt;Me había olvidado de mi propio cuerpo
+y de la conmoción de renacer
+al ver mis pies / mis ojos / mis manos
+en contacto repentino 
+con esta Realidad.
+La realidad así de grande
+- así -
+y no como el espacio entre mis labios,
+y los tuyos
+que sólo sirve de metáfora
+ya que como espacio
+me priva hasta del inhalar.&lt;/p&gt;
 
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;
+&lt;p&gt;Me he sentido renacer,
+tras la invidencia de la luz inesperada
+Nacer de golpe y con pasión
+como lo hice aquella vez,
+como solía hacerlo en mis trenes,
+en mis montañas,
+y en mis soledades más vivas que yo misma,
+renacer con la lucidez de esta Naturaleza
+simple y enredada, como sólo ella.&lt;/p&gt;
 
-&lt;p&gt;Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.&lt;/p&gt;
+&lt;p&gt;He renacido del océano 
+/ del aire a través de mí 
+/ del sol que ciega y me da verdades
+verdades como las que cuentan que tú
+no eres nada,
+nada más que una pieza
+como estas hojas que ahora barren mis pies
+que vienen y se van
+y me dejan polvo, y arena, y memoria
+Memoria breve y fugaz
+que me mutila y, luego,
+desaparece, lenta y silenciosa,
+como la espuma 
+tras las olas del mar.&lt;/p&gt;
 
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word “and” and the Little Blind Text should turn around and return to its own, safe country.&lt;/p&gt;
-
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their projects again and again. And if she hasn’t been rewritten, then they are still using her.&lt;/p&gt;
+&lt;p&gt;/ Sin dejar el más mínimo rastro.
+Ni rastro ni agua ni espacio
+que me prive / que me ahogue / que me empape
+de muerte lenta 
+y simulada culpabilidad.”&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2014/01/06/how-backbone-changed-my-life/</id>
-      <updated>2014-01-06T17:57:51+01:00</updated>
+      <id>http://hacknug.github.io//2015/01/20/lucidez/</id>
+      <updated>2015-01-20T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
       </author>
     </entry>
   
     <entry>
-      <title>Perception of design, a developer point of view</title>
-      <link href="http://hacknug.github.io//2014/01/05/perception-of-design/" />
-      <summary type="html">&lt;p&gt;His boss would certainly come round with the doctor from the medical insurance company, accuse his parents of having a lazy son, and accept the doctor’s recommendation not to make any claim as the doctor believed that no-one was ever ill but that many were workshy.&lt;/p&gt;
-
-&lt;p&gt;And what’s more, would he have been entirely wrong in this case? Gregor did in fact, apart from excessive sleepiness after sleeping for so long, feel completely well and even felt much hungrier than usual.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. “What’s happened to me? “ he thought. It wasn’t a dream.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Conceptualising is hard because it requires to shut down our graphic imagination and stay focused on the big picture. Principles and data over layout and typeface.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.&lt;/p&gt;
-
-&lt;p&gt;It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather. Drops of rain could be heard hitting the pane, which made him feel quite sad.&lt;/p&gt;
+      <title>Mentiras</title>
+      <link href="http://hacknug.github.io//2015/01/19/mentiras/" />
+      <summary type="html">&lt;p&gt;Dime con cuantas verdades 
+me engañas esta vez
+mientras me buscas, 
+convencida, 
+para luego hallarme perdida
+en el abandono que tú misma
+creaste al saludar.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2014/01/05/perception-of-design/</id>
-      <updated>2014-01-05T17:57:51+01:00</updated>
+      <id>http://hacknug.github.io//2015/01/19/mentiras/</id>
+      <updated>2015-01-19T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
       </author>
     </entry>
   
     <entry>
-      <title>Going back on 2013; quite an incredible year</title>
-      <link href="http://hacknug.github.io//2014/01/03/going-back-2013/" />
-      <summary type="html">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
-
-&lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.&lt;/p&gt;
-
-&lt;p&gt;I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.&lt;/p&gt;
-
-&lt;p&gt;When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream. &lt;/p&gt;
-
-&lt;p&gt;As I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!&lt;/p&gt;
-
-&lt;p&gt;O my friend – but it is too much for my strength – I sink under the weight of the splendour of these visions!&lt;/p&gt;
-
-&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;
+      <title>A Brendaly</title>
+      <link href="http://hacknug.github.io//2015/01/16/a-brendaly/" />
+      <summary type="html">&lt;p&gt;Súper conversaciones con una madre-espejo, de tristeza ancestral y putez adquirida. Quizás solo nosotras nos entendamos, pero podríamos revolucionar el mundo juntas. Amo tu fuerza y tu rebelión y te pido mil perdones por mucho tiempo de ceguera. Que quizás me ha sido muy fácil el juego de la jota - te juzgo y me justifico y me quedo tan ancha - No menosprecio el problema, pero despliego sus matices y de ahí salen maravillas. Mi mujer-niña, tan mona y pletórica ella, con esa sonrisa más que risueña de dientes desnudos y mejillas en trampolín. A ella, que se le caen siempre las bufandas cómo si en el suelo hubiera un imán que desesperadamente las buscara. A ella, que camina en zetas por la calle y mira a lo alto de los edificios y está siempre al borde de chocar con alguna cosa gris o transeúnte fortuito que al final, viene a ser lo mismo. A ella que nunca sabe hacia donde ir y se atropella a sí misma y me pone tan nerviosa. Que va de aquí-allá hilvanando aviones y trenes en fila y nunca está quieta. A ella, que jamás tuvo patria alguna pero es Madre Tierra. Que es Libra, pero vive del encanto del desequilibrio innato de la balanza tarada. A ella, que sabe de todo y de nada. Que a veces llora como los niños cuando aguantan su llanto y sólo lo alimentan más, que calla su dolor irreparable y no levanta la cabeza ni siquiera para decir adiós, y en cambio, otras, se despide con la euforia del coronado y con esas lágrimas explosivas cada vez que da un paso hacia adelante, hacia la incertidumbre siempre segura de su destino. A ella, que baila enloquecida como si estuviera en su primer concierto mientras yo la miro desde lejos, aguantando mi cerveza vacía y mirándola de aquella forma arrogante de cuando yo me siento más por no ser tan. A ella, que tiene derrota igual que victoria, la fuerza del tornado y el cansancio de la orilla de los desterrados. Sé también de su mirada arrebatadora o su risa o esos gestos o sus movimientos de cabello que dejan abatido a todo caballero que escucha su sólo-aparente acento francés. Tú despiertas y das luz a las personas. Las haces encontrarse y desencontrarse contigo y tal vez eso sea lo más mágico de todo, y es que algo así no admite reproches ni broches ni medallas, nunca contigo es todo o nada, apuesta segura o toalla en baldosa. No, contigo no hay eternos ni leyes. Contigo hay todo lo que tú creas. Gracias por las herencias malas y las buenas, que al final, son una misma. Y es que no podría pedir tus virtudes sin tus tropiezos, ni podría pedirme a mi misma el ser sin ti, que mejor o peor, existe, y tiene mucho de tu nombre, y tiene mucho de Malidta sea y de qué entrañable después. Y es que quizás no sea tan urgente corregir esas desmesuras típicas de este apellido santo. Quizás esté bien así, con toda su imperfección, porque como decía riendo Maletín, “madre sólo hay una”, y más si es como tú. Porque quizá es el momento de aceptarnos y dejar de bailar jotas, pues no hay nada que enterrar, sino todo lo contrario.
+Tu hija-madre-niña que te quiere a mares y a frustraciones por igual y no por eso te quiere ni menos ni más.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2014/01/03/going-back-2013/</id>
-      <updated>2014-01-03T17:57:51+01:00</updated>
+      <id>http://hacknug.github.io//2015/01/16/a-brendaly/</id>
+      <updated>2015-01-16T00:00:00+01:00</updated>
+      <author>
+        <name>Nestor Vera</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>La Niña De Las Verdades</title>
+      <link href="http://hacknug.github.io//2015/01/15/la-nin%CC%83a-de-las-verdades/" />
+      <summary type="html">&lt;p&gt;Por necedad o una secuencia de tiempo lógico,
+había olvidado a la niña de las verdades.
+La había olvidado y
+se me ha tenido que aparecer 
+entre las cuatro y las seis de la cama fría
+a esas horas en las que piensas
+lo que durante el resto del día no osas.
+Se me ha tenido que aparecer 
+y ríos salvajes de amor y bruma
+han inundado el insomnio de mi cuerpo
+y la calma aparente de mis entrañas.
+Se apareció
+con la luz de mil mañanas 
+para gritarme sus facciones y sus piernas suaves
+para recordarme la cóncava perfecta de debajo de su falda
+para devolverme la belleza tierna y explosiva
+que sólo su transparencia es capaz de tener
+- la belleza que sólo algunos saben
+la belleza que solo algunos tienen
+la belleza pura
+que ni siquiera es consciente de sí misma -
+La niña de las verdades
+Mi eternamente Momo
+la más dulce de la platinas
+y de los corazones gélidos
+que luchan por no salir.
+La niña-ninfa
+arrebatadoramente cálida
+cálida y tierna hasta la saciedad más bella
+y el amor más empírico de todos
+y No digas que fue un sueño
+que siempre quisiste negar
+todo lo que yo te regalaba.
+Ella,
+que a veces era severa y dura y seria e imperativa
+como el tirano implacable
+o la cristiana empedernida,
+que podía aniquilarme de miedo
+sin siquiera abrir sus labios
+esos pequeños labios finos
+y tan delicados
+que el besarlos era toda una maestría.
+Ella, que no entendía mis antípodas
+y luego era toda fuego y nieve
+Ella, que quería la lógica pero amaba a la Maga
+que adoraba mi niñez pero no soportaba 
+el dolor constante de mi volatilidad.
+Ella, que definía en cajones
+y luego tenía toda la ropa desbaratada
+por rincones remotos que ni tan sólo conocía.
+Ella, que me arrancaba las horquillas
+de una forma tan serena
+que parecían desafiar la gravedad
+al caer al suelo
+tras el transcurso del parto de mil besos.
+Besos
+de aquellos
+en los que giras sobre ti misma
+al margen del mundo entero
+que mira
+y jamás sabe ver
+lo que tú en ella.
+Ella, que era León
+o leona en calma,
+que se acurrucaba en mis brazos
+con la dulzura inocente
+de quien nunca perdió la esperanza.
+(y me rindo ante la pena y la impotencia
+de escribirte cómo si estuvieras muerta,
+de no poder amarte
+ni siquiera
+desde la cercanía del simulacro
+de este olvido apurado
+y falto
+de mi propia voluntad)&lt;/p&gt;
+</summary>
+      <id>http://hacknug.github.io//2015/01/15/la-nin%CC%83a-de-las-verdades/</id>
+      <updated>2015-01-15T00:00:00+01:00</updated>
+      <author>
+        <name>Nestor Vera</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Límites</title>
+      <link href="http://hacknug.github.io//2015/01/14/limites/" />
+      <summary type="html">&lt;p&gt;Necesitaba saber con exactitud
+cuando medía y pesaba
+todo aquello indefinido.&lt;/p&gt;
+
+&lt;p&gt;Todo aquello preso
+en nuestros cuerpos errantes
+y anhelantes
+de límites
+     que romper.&lt;/p&gt;
+</summary>
+      <id>http://hacknug.github.io//2015/01/14/limites/</id>
+      <updated>2015-01-14T00:00:00+01:00</updated>
+      <author>
+        <name>Nestor Vera</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>La Letra Escarlata</title>
+      <link href="http://hacknug.github.io//2015/01/13/la-letra-escarlata/" />
+      <summary type="html">&lt;p&gt;Estoy llena de insatisfacción
+me infecta por todas partes 
+pero incluso mi insatisfacción
+- mi rabia mi odio mi violencia -
+es tan volátil
+que jamás puedo alcanzarla
+llegar a pararla,
+o escucharla
+y entonces, así,
+enfrentarme a ella
+destruirla, aniquilarla
+ni siquiera esto puedo 
+por mi maldita volatilidad
+mi vaivén que viene y va
+y es que ésta es mi condena
+mi maldita letra escarlata
+no poder atrapar
+ni recordar
+pero que todos recuerden
+mis vienen y van
+y quedan en nada
+y quién es esa
+que todo destruye
+y no sabe tocar.&lt;/p&gt;
+</summary>
+      <id>http://hacknug.github.io//2015/01/13/la-letra-escarlata/</id>
+      <updated>2015-01-13T00:00:00+01:00</updated>
+      <author>
+        <name>Nestor Vera</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Aniquilación</title>
+      <link href="http://hacknug.github.io//2015/01/12/aniquilacion/" />
+      <summary type="html">&lt;p&gt;Me nace, me nace. Me nace el odio. La rabia. La impotencia. La sed. El vómito. La venganza. Me nace, me nacen. Las malditas balas. Las dagas. Las cruzadas que espero ansiosa contigo. La sangre a regañadientes. Lanzarte al vacío. Tirar de las sábanas. Quemarnos la luz. Me nace; Aborrecerte entera. Descuartizar tu divinidad con el cinismo y la calma perfecta de Grenouille. Me nace; Deshacerte entre tópicos y defectos banales, que sé que no importan, pero me sirven. Me nace, atarte al vacío y no mirar jamás atrás. Dejarte sola en el último rincon del mundo, y alejarme. Escuchar a lo lejos tus gritos, tus brazos llorando sangre y tus clavículas quebrándose en distintas direcciones. Me nace; Escupirte con mirada impávida. Lanzarte al océano más profundo. Ver cómo te comen los caimanes. Me nace, me nace. La violencia contigo. La violencia en contra de ti. La violencia inherente al alma, al cuerpo, al deseo, al éxtasis, y al placer. Violencia, violenta. Mierda. Olvidé regar mis violetas y puedo sentir cómo se marchitan al compás de tu cercanía. Corro a por cicuta, que o me nace matarte, o me nace morir.&lt;/p&gt;
+</summary>
+      <id>http://hacknug.github.io//2015/01/12/aniquilacion/</id>
+      <updated>2015-01-12T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
       </author>
