@@ -32,18 +32,18 @@ layout: default
       {{ content }}
     </div>
     <div class="feat share">
-      <a href="http://twitter.com/share" class="popup">
+      <a href="http://twitter.com/intent/tweet?url={{ page.url }}&text={{ page.title }}" class="popup">
         <span class="icon-twitter"></span>
       </a>
     </div>
     {% if page.next %}
       <a rel="next" href="{{ site.baseurl }}{{ page.next.url }}" id="next">
-        <span class="nav-title nav-title-next">newer</span> &rarr;
+        <span class="nav-title nav-title-next">siguiente</span> &rarr;
       </a>
     {% endif %}
     {% if page.previous %}
       <a rel="prev" href="{{ site.baseurl }}{{ page.previous.url }}" id="prev">
-        &larr; <span class="nav-title nav-title-prev">older</span>
+        &larr; <span class="nav-title nav-title-prev">anterior</span>
       </a>
     {% endif %}
   </article>
