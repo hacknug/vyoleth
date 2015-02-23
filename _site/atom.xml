@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>vyoleth</title>
-  <id>http://hacknug.github.io/</id>
-  <link href="http://hacknug.github.io/" />
-  <link href="http://hacknug.github.io//atom.xml" rel="self" />
-  <updated>2015-02-22T19:12:15+01:00</updated>
+  <id>http://hacknug.github.io</id>
+  <link href="http://hacknug.github.io" />
+  <link href="http://hacknug.github.io/atom.xml" rel="self" />
+  <updated>2015-02-23T02:55:46+01:00</updated>
   <rights>Copyright 2014, Nestor Vera</rights>
   <author>
     <name>Nestor Vera</name>
@@ -12,7 +12,7 @@
   
     <entry>
       <title>El Faro</title>
-      <link href="http://hacknug.github.io//2015/02/22/el-faro/" />
+      <link href="http://hacknug.github.io/2015/02/22/el-faro/" />
       <summary type="html">&lt;p&gt;Ha desaparecido mi faro eterno.
 Lo arrancaron de golpe,
 sin enviar postales,
@@ -61,7 +61,7 @@ entre las algas.&lt;/p&gt;
 &lt;p&gt;(…)
 A Momo&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/02/22/el-faro/</id>
+      <id>http://hacknug.github.io/2015/02/22/el-faro/</id>
       <updated>2015-02-22T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -70,13 +70,13 @@ A Momo&lt;/p&gt;
   
     <entry>
       <title>Estupidez Crónica</title>
-      <link href="http://hacknug.github.io//2015/02/21/estupidez-cronica/" />
+      <link href="http://hacknug.github.io/2015/02/21/estupidez-cronica/" />
       <summary type="html">&lt;p&gt;Además de masoquista,
 hay que ser Gilipollas.
 Hasta los suicidas crónicos
 tendrían más tacto que yo.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/02/21/estupidez-cronica/</id>
+      <id>http://hacknug.github.io/2015/02/21/estupidez-cronica/</id>
       <updated>2015-02-21T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -85,7 +85,7 @@ tendrían más tacto que yo.&lt;/p&gt;
   
     <entry>
       <title>Vida</title>
-      <link href="http://hacknug.github.io//2015/02/20/vida/" />
+      <link href="http://hacknug.github.io/2015/02/20/vida/" />
       <summary type="html">&lt;p&gt;Yo no estoy hecha para la vida.
 No estoy hecha para ella, 
 como me mandan.
@@ -282,7 +282,7 @@ Esta cosa cansada y triste
 llena de prisas cestos conceptos y cotidianidad
 Yo no estoy hecha para la vida&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/02/20/vida/</id>
+      <id>http://hacknug.github.io/2015/02/20/vida/</id>
       <updated>2015-02-20T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -291,7 +291,7 @@ Yo no estoy hecha para la vida&lt;/p&gt;
   
     <entry>
       <title>Renuncia</title>
-      <link href="http://hacknug.github.io//2015/02/18/renuncia/" />
+      <link href="http://hacknug.github.io/2015/02/18/renuncia/" />
       <summary type="html">&lt;p&gt;Creo que aún estoy a salvo
 de todos vosotros
 - de todas vosotras
@@ -301,7 +301,7 @@ de todos vosotros
 un leve rastro de fuerza
 para desistir.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/02/18/renuncia/</id>
+      <id>http://hacknug.github.io/2015/02/18/renuncia/</id>
       <updated>2015-02-18T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -310,7 +310,7 @@ para desistir.&lt;/p&gt;
   
     <entry>
       <title>No Olvides</title>
-      <link href="http://hacknug.github.io//2015/02/02/no-olvides/" />
+      <link href="http://hacknug.github.io/2015/02/02/no-olvides/" />
       <summary type="html">&lt;p&gt;Por si pronto se te olvida
 la presencia de aquellos que te aman
 déjame recordarte
@@ -334,7 +334,7 @@ y algún que otro tropiezo
 sabe siempre darte
 los mejores consejos.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/02/02/no-olvides/</id>
+      <id>http://hacknug.github.io/2015/02/02/no-olvides/</id>
       <updated>2015-02-02T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -343,7 +343,7 @@ los mejores consejos.&lt;/p&gt;
   
     <entry>
       <title>Pájaro Aire Nada</title>
-      <link href="http://hacknug.github.io//2015/02/01/pajaro-aire-nada/" />
+      <link href="http://hacknug.github.io/2015/02/01/pajaro-aire-nada/" />
       <summary type="html">&lt;p&gt;Esta mañana intenté
 paja aire nada
 y me encontré, patética,
@@ -377,7 +377,7 @@ hace mucho tiempo ya
 con el cariño del hielo y la sutileza
 de quien se corta en el desván.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/02/01/pajaro-aire-nada/</id>
+      <id>http://hacknug.github.io/2015/02/01/pajaro-aire-nada/</id>
       <updated>2015-02-01T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -386,7 +386,7 @@ de quien se corta en el desván.&lt;/p&gt;
   
     <entry>
       <title>Vivir Para Qué</title>
-      <link href="http://hacknug.github.io//2015/01/25/vivir-para-que/" />
+      <link href="http://hacknug.github.io/2015/01/25/vivir-para-que/" />
       <summary type="html">&lt;p&gt;vivir
 para qué vivir
 para comer, de repente,
@@ -432,7 +432,7 @@ y para qué la vida
 quién coño decidió que yo tenía que estar aquí.
 yo no quiero estar viva.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/01/25/vivir-para-que/</id>
+      <id>http://hacknug.github.io/2015/01/25/vivir-para-que/</id>
       <updated>2015-01-25T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -441,7 +441,7 @@ yo no quiero estar viva.&lt;/p&gt;
   
     <entry>
       <title>Lucidez</title>
-      <link href="http://hacknug.github.io//2015/01/20/lucidez/" />
+      <link href="http://hacknug.github.io/2015/01/20/lucidez/" />
       <summary type="html">&lt;p&gt;“Había olvidado la lucidez del mar / del aire / del sol.&lt;/p&gt;
 
 &lt;p&gt;Me había pensado que tus tristes paredes 
@@ -511,7 +511,7 @@ que me prive / que me ahogue / que me empape
 de muerte lenta 
 y simulada culpabilidad.”&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/01/20/lucidez/</id>
+      <id>http://hacknug.github.io/2015/01/20/lucidez/</id>
       <updated>2015-01-20T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -520,7 +520,7 @@ y simulada culpabilidad.”&lt;/p&gt;
   
     <entry>
       <title>Mentiras</title>
-      <link href="http://hacknug.github.io//2015/01/19/mentiras/" />
+      <link href="http://hacknug.github.io/2015/01/19/mentiras/" />
       <summary type="html">&lt;p&gt;Dime con cuantas verdades 
 me engañas esta vez
 mientras me buscas, 
@@ -529,7 +529,7 @@ para luego hallarme perdida
 en el abandono que tú misma
 creaste al saludar.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/01/19/mentiras/</id>
+      <id>http://hacknug.github.io/2015/01/19/mentiras/</id>
       <updated>2015-01-19T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -538,11 +538,11 @@ creaste al saludar.&lt;/p&gt;
   
     <entry>
       <title>A Brendaly</title>
-      <link href="http://hacknug.github.io//2015/01/16/a-brendaly/" />
+      <link href="http://hacknug.github.io/2015/01/16/a-brendaly/" />
       <summary type="html">&lt;p&gt;Súper conversaciones con una madre-espejo, de tristeza ancestral y putez adquirida. Quizás solo nosotras nos entendamos, pero podríamos revolucionar el mundo juntas. Amo tu fuerza y tu rebelión y te pido mil perdones por mucho tiempo de ceguera. Que quizás me ha sido muy fácil el juego de la jota - te juzgo y me justifico y me quedo tan ancha - No menosprecio el problema, pero despliego sus matices y de ahí salen maravillas. Mi mujer-niña, tan mona y pletórica ella, con esa sonrisa más que risueña de dientes desnudos y mejillas en trampolín. A ella, que se le caen siempre las bufandas cómo si en el suelo hubiera un imán que desesperadamente las buscara. A ella, que camina en zetas por la calle y mira a lo alto de los edificios y está siempre al borde de chocar con alguna cosa gris o transeúnte fortuito que al final, viene a ser lo mismo. A ella que nunca sabe hacia donde ir y se atropella a sí misma y me pone tan nerviosa. Que va de aquí-allá hilvanando aviones y trenes en fila y nunca está quieta. A ella, que jamás tuvo patria alguna pero es Madre Tierra. Que es Libra, pero vive del encanto del desequilibrio innato de la balanza tarada. A ella, que sabe de todo y de nada. Que a veces llora como los niños cuando aguantan su llanto y sólo lo alimentan más, que calla su dolor irreparable y no levanta la cabeza ni siquiera para decir adiós, y en cambio, otras, se despide con la euforia del coronado y con esas lágrimas explosivas cada vez que da un paso hacia adelante, hacia la incertidumbre siempre segura de su destino. A ella, que baila enloquecida como si estuviera en su primer concierto mientras yo la miro desde lejos, aguantando mi cerveza vacía y mirándola de aquella forma arrogante de cuando yo me siento más por no ser tan. A ella, que tiene derrota igual que victoria, la fuerza del tornado y el cansancio de la orilla de los desterrados. Sé también de su mirada arrebatadora o su risa o esos gestos o sus movimientos de cabello que dejan abatido a todo caballero que escucha su sólo-aparente acento francés. Tú despiertas y das luz a las personas. Las haces encontrarse y desencontrarse contigo y tal vez eso sea lo más mágico de todo, y es que algo así no admite reproches ni broches ni medallas, nunca contigo es todo o nada, apuesta segura o toalla en baldosa. No, contigo no hay eternos ni leyes. Contigo hay todo lo que tú creas. Gracias por las herencias malas y las buenas, que al final, son una misma. Y es que no podría pedir tus virtudes sin tus tropiezos, ni podría pedirme a mi misma el ser sin ti, que mejor o peor, existe, y tiene mucho de tu nombre, y tiene mucho de Malidta sea y de qué entrañable después. Y es que quizás no sea tan urgente corregir esas desmesuras típicas de este apellido santo. Quizás esté bien así, con toda su imperfección, porque como decía riendo Maletín, “madre sólo hay una”, y más si es como tú. Porque quizá es el momento de aceptarnos y dejar de bailar jotas, pues no hay nada que enterrar, sino todo lo contrario.
 Tu hija-madre-niña que te quiere a mares y a frustraciones por igual y no por eso te quiere ni menos ni más.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/01/16/a-brendaly/</id>
+      <id>http://hacknug.github.io/2015/01/16/a-brendaly/</id>
       <updated>2015-01-16T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -551,7 +551,7 @@ Tu hija-madre-niña que te quiere a mares y a frustraciones por igual y no por e
   
     <entry>
       <title>La Niña De Las Verdades</title>
-      <link href="http://hacknug.github.io//2015/01/15/la-nin%CC%83a-de-las-verdades/" />
+      <link href="http://hacknug.github.io/2015/01/15/la-nin%CC%83a-de-las-verdades/" />
       <summary type="html">&lt;p&gt;Por necedad o una secuencia de tiempo lógico,
 había olvidado a la niña de las verdades.
 La había olvidado y
@@ -628,7 +628,7 @@ de este olvido apurado
 y falto
 de mi propia voluntad)&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/01/15/la-nin%CC%83a-de-las-verdades/</id>
+      <id>http://hacknug.github.io/2015/01/15/la-nin%CC%83a-de-las-verdades/</id>
       <updated>2015-01-15T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -637,7 +637,7 @@ de mi propia voluntad)&lt;/p&gt;
   
     <entry>
       <title>Límites</title>
-      <link href="http://hacknug.github.io//2015/01/14/limites/" />
+      <link href="http://hacknug.github.io/2015/01/14/limites/" />
       <summary type="html">&lt;p&gt;Necesitaba saber con exactitud
 cuando medía y pesaba
 todo aquello indefinido.&lt;/p&gt;
@@ -648,7 +648,7 @@ y anhelantes
 de límites
      que romper.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/01/14/limites/</id>
+      <id>http://hacknug.github.io/2015/01/14/limites/</id>
       <updated>2015-01-14T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -657,7 +657,7 @@ de límites
   
     <entry>
       <title>La Letra Escarlata</title>
-      <link href="http://hacknug.github.io//2015/01/13/la-letra-escarlata/" />
+      <link href="http://hacknug.github.io/2015/01/13/la-letra-escarlata/" />
       <summary type="html">&lt;p&gt;Estoy llena de insatisfacción
 me infecta por todas partes 
 pero incluso mi insatisfacción
@@ -683,7 +683,7 @@ y quién es esa
 que todo destruye
 y no sabe tocar.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/01/13/la-letra-escarlata/</id>
+      <id>http://hacknug.github.io/2015/01/13/la-letra-escarlata/</id>
       <updated>2015-01-13T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
@@ -692,10 +692,10 @@ y no sabe tocar.&lt;/p&gt;
   
     <entry>
       <title>Aniquilación</title>
-      <link href="http://hacknug.github.io//2015/01/12/aniquilacion/" />
+      <link href="http://hacknug.github.io/2015/01/12/aniquilacion/" />
       <summary type="html">&lt;p&gt;Me nace, me nace. Me nace el odio. La rabia. La impotencia. La sed. El vómito. La venganza. Me nace, me nacen. Las malditas balas. Las dagas. Las cruzadas que espero ansiosa contigo. La sangre a regañadientes. Lanzarte al vacío. Tirar de las sábanas. Quemarnos la luz. Me nace; Aborrecerte entera. Descuartizar tu divinidad con el cinismo y la calma perfecta de Grenouille. Me nace; Deshacerte entre tópicos y defectos banales, que sé que no importan, pero me sirven. Me nace, atarte al vacío y no mirar jamás atrás. Dejarte sola en el último rincon del mundo, y alejarme. Escuchar a lo lejos tus gritos, tus brazos llorando sangre y tus clavículas quebrándose en distintas direcciones. Me nace; Escupirte con mirada impávida. Lanzarte al océano más profundo. Ver cómo te comen los caimanes. Me nace, me nace. La violencia contigo. La violencia en contra de ti. La violencia inherente al alma, al cuerpo, al deseo, al éxtasis, y al placer. Violencia, violenta. Mierda. Olvidé regar mis violetas y puedo sentir cómo se marchitan al compás de tu cercanía. Corro a por cicuta, que o me nace matarte, o me nace morir.&lt;/p&gt;
 </summary>
-      <id>http://hacknug.github.io//2015/01/12/aniquilacion/</id>
+      <id>http://hacknug.github.io/2015/01/12/aniquilacion/</id>
       <updated>2015-01-12T00:00:00+01:00</updated>
       <author>
         <name>Nestor Vera</name>
