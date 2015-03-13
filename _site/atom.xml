@@ -4,7 +4,7 @@
   <id>http://hacknug.github.io</id>
   <link href="http://hacknug.github.io" />
   <link href="http://hacknug.github.io/atom.xml" rel="self" />
-  <updated>2015-03-13T17:22:27+01:00</updated>
+  <updated>2015-03-13T17:29:40+01:00</updated>
   <rights>Copyright 2014, Nestor Vera</rights>
   <author>
     <name>Nestor Vera</name>
@@ -74,7 +74,11 @@ A Momo&lt;/p&gt;
       <summary type="html">&lt;p&gt;Además de masoquista,&lt;br /&gt;
 hay que ser Gilipollas.&lt;br /&gt;
 Hasta los suicidas crónicos&lt;br /&gt;
-tendrían más tacto que yo.&lt;/p&gt;
+«««&amp;lt; HEAD
+tendrían más tacto que yo.
+=======
+tendrían más tacto que yo.
+»»»&amp;gt; 5f1a8570ab0f891902a3690ed8a0b7f2ee681238&lt;/p&gt;
 </summary>
       <id>http://hacknug.github.io/2015/02/21/estupidez-cronica/</id>
       <updated>2015-02-21T00:00:00+01:00</updated>
