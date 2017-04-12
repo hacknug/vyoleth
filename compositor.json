@@ -1,0 +1,94 @@
+{
+  "name": "hacknug/vyoleth",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "",
+  "branch": "master",
+  "style": {
+    "name": "Brutalist",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BasicHeader",
+      "article": "article/MarkdownArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+    "heading": {},
+    "typeScale": [
+      48,
+      32,
+      20,
+      18,
+      16,
+      14,
+      12
+    ],
+    "layout": {
+      "maxWidth": 1024,
+      "fluid": true
+    },
+    "colors": {
+      "text": "#333",
+      "background": "#fff",
+      "primary": "#666",
+      "secondary": "#888",
+      "highlight": "#1f80ff",
+      "muted": "#f6f6f6",
+      "border": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "http://hacknug.github.io/vyoleth/",
+          "text": "Home"
+        },
+        {
+          "href": "https://github.com/hacknug/vyoleth",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "vyoleth",
+      "subhead": "Poetry",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "vyoleth: Poetry",
+          "url": "http://hacknug.github.io/vyoleth/"
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "hacknug",
+          "repo": "vyoleth"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<h1>hikari</h1>\n<p>Hikari is an open-source <a href=\"http://jekyllrb.com\">Jekyll</a> theme perfect for dev-savvy bloggers who wants to get started with Jekyll in a very minimal way. </p>\n<ul>\n<li>SCSS!</li>\n<li>Responsive</li>\n<li>Lightweight (no JS library has been abused here)</li>\n</ul>\n<p><img src=\"https://dl.dropboxusercontent.com/u/7539881/Hikari/hikari-screenshot.png\"></p>\n<p><img src=\"https://dl.dropboxusercontent.com/u/7539881/Hikari/hikari-screenshot-2.png\"></p>\n<p><img src=\"https://dl.dropboxusercontent.com/u/7539881/Hikari/hikari-screenshot-3.png\"></p>\n<p><a href=\"http://m3xm.github.io/hikari-for-Jekyll\">View demo</a></p>\n<h3>How to install</h3>\n<ol>\n<li>Clone this repo</li>\n<li>Customize _config.yml and replace all dummy posts by yours</li>\n<li>Change your profile picture in <code>~/assets/img/avatar.jpg</code></li>\n<li>Publish (I recommend <a href=\"https://help.github.com/articles/using-jekyll-with-pages\">GitHub Pages</a>, it&apos;s free)</li>\n</ol>\n<h3>Development</h3>\n<ul>\n<li><code>master</code> for development and pull requests.</li>\n<li><code>gh-pages</code> for the demo page; don&apos;t bother.</li>\n</ul>\n<h4>Running locally</h4>\n<ol>\n<li>Clone this repo</li>\n<li><p>Install required dependencies with <a href=\"http://bundler.io/\">Bundler</a></p>\n<pre> <span class=\"hljs-keyword\">bundle </span>install</pre></li>\n<li><p>Run the site with Jekyll</p>\n<pre> <span class=\"hljs-keyword\">bundle </span>exec <span class=\"hljs-keyword\">jekyll </span>serve --watch</pre></li>\n<li>Visit the site at <a href=\"http://localhost:4000\">http://localhost:4000</a></li>\n</ol>\n<h3>Author</h3>\n<p><strong>Mathieu Mayer-Mazzoli</strong></p>\n<ul>\n<li><a href=\"http://m3xm.github.io\">http://m3xm.github.io</a></li>\n<li><a href=\"http://twitter.com/mx3m\">http://twitter.com/mx3m</a></li>\n<li><a href=\"http://www.dribbble.com/m3xm\">http://www.dribbble.com/m3xm</a></li>\n</ul>\n<h3>Main Contributors</h3>\n<p><strong>Ross Allen</strong></p>\n<ul>\n<li><a href=\"https://github.com/ssorallen\">https://github.com/ssorallen</a></li>\n</ul>\n<p><strong>Julien Rousseau</strong></p>\n<ul>\n<li><a href=\"https://github.com/evarouss\">https://github.com/evarouss</a></li>\n</ul>\n<h3>License</h3>\n<p>Open source. <a href=\"http://opensource.org/licenses/MIT\">MIT license</a>.</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/hacknug/vyoleth",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/hacknug",
+          "text": "hacknug"
+        }
+      ]
+    }
+  ]
+}
